@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="Contabilidad" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="Escritos\Manual_de_Usuario\Manual_de_Usuario.htm">
+    
+    <topic>
+      Escritos\Basicas_de_Contabilidad\Basicas_de_Contabilidad.htm
+    </topic>
+    
+    <topic>
+      Escritos\Basicas_de_Contabilidad\Cuentas_Contables.htm
+    </topic>
+    
+    <topic>
+      Escritos\Basicas_de_Contabilidad\Plan_Unico_de_Cuentas.htm
+    </topic>
+    
+    <topic>
+      Escritos\Basicas_de_Contabilidad\Varios.htm
+    </topic>
+    
+    <topic>
+      Escritos\Basicas_del_Sistema\Basicas_del_sistema.htm
+    </topic>
+    
+    <topic>
+      Escritos\Basicas_del_Sistema\Compañia.htm
+    </topic>
+    
+    <topic>
+      Escritos\Basicas_del_Sistema\Empresas.htm
+    </topic>
+    
+    <topic>
+      Escritos\Basicas_del_Sistema\Externas.htm
+    </topic>
+    
+    <topic>
+      Escritos\Basicas_del_Sistema\Generalidades.htm
+    </topic>
+    
+    <topic>
+      Escritos\Basicas_del_Sistema\Geograficas.htm
+    </topic>
+    
+    <topic>
+      Escritos\Documentos_Contables\Automaticos.htm
+    </topic>
+    
+    <topic>
+      Escritos\Documentos_Contables\Documentos.htm
+    </topic>
+    
+    <topic>
+      Escritos\Documentos_Contables\Documentos_Contables.htm
+    </topic>
+    
+    <topic>
+      Escritos\Documentos_Contables\Predocumentos.htm
+    </topic>
+    
+    <topic>
+      Escritos\Manual_de_Usuario\Manual_de_Usuario.htm
+    </topic>
+    
+    <topic>
+      Escritos\Manual_de_Usuario\Inicio_de_Sesion.htm
+    </topic>
+    
+    <topic>
+      Escritos\Manual_de_Usuario\Módulos.htm
+    </topic>
+    
+    <topic>
+      Escritos\Manual_de_Usuario\Botones.htm
+    </topic>
+    
+    <topic>
+      Escritos\Manual_de_Usuario\Modificaciones.htm
+    </topic>
+    
+    <topic>
+      Escritos\Manual_de_Usuario\Tabla_de_Control.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos_Contables\Procesos.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos_Contables\Procesos_Contables.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos_Contables\Tablas_Basicas.htm
+    </topic>
+    
+    <topic>
+      Escritos\Reportes_Contables\Reportes_Contables.htm
+    </topic>
+    
+    <topic>
+      Escritos\Seguridad\Seguridad.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        es_ES
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.htm
+      </filename>
+    </filenameentry>
+        
+    <filenameentry moniker="favicon">
+      <filename>
+        C:/Users/smontoya/OneDrive - Caja de Auxilios y Prestaciones de ACDAC CAXDAC/Documentos/My RoboHelp Projects/Contabilidad/contents/assets/images/imgs_base/Logo_CXD.png
+      </filename>
+    </filenameentry>
+    
+  </filenamemap>
+</ppfml>

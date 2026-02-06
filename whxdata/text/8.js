@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Plan Único de Cuentas"]],"1":[[" ","Plan Único de Cuentas"]],"2":[[" ","Catalogo de Cuentas"]],"3":[[" ","Aquí debemos digitar el tipo de PUC y digitar la cuenta contable a consultar."]],"id":"8"})

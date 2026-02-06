@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Documentos Contables"]],"1":[[" ","Documentos Contables"]],"3":[[" ","Parametriza los tipos de documentos contables que se pueden utilizar en el sistema.","\n      Aquí se establecen sus características, comportamiento y reglas de uso."]],"id":"1"})

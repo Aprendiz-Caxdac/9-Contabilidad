@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Procesos Contables"]],"2":[[" ","Procesos Contables"]],"3":[[" ","Para ejecutar y controlar las operaciones que afectan directamente la contabilidad, una vez que la información ya está parametrizada y validada."]],"id":"3"})
