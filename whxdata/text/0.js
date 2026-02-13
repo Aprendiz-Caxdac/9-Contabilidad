@@ -1,0 +1,1 @@
+rh._.exports({"0":[["Cuentas Contables "]],"1":[[" ","Cuentas Contables"],[" ","Cuentas Bancarias"]],"2":[[" ","Impuestos y Retenciones"],[" ","Detalles Adicionales"]],"3":[[" ","No se puede acceder a esta tabla"],[" ","Ventana no disponible actualmente."],[" ","(Esta tabla está vacía)"]],"id":"0"})
