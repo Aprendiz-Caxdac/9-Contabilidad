@@ -1,1 +1,0 @@
-(function() {    var toc =  [{"name":"Escritos","type":"book","tilePath":"","key":"toc1"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();
